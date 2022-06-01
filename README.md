@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Anilbishnoi29/Anilbishnoi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Anil Kumar! 👋
 
-Here are some ideas to get you started:
+Currently: Student of MCA at Poddar Management and Technical campus, Jaipur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+    Object-oriented programming
+
+    c++, Java
+
+    HTML5, CSS3, JS
+
+    Bootstrap
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarakb/)
+
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anilbishnoi29)
