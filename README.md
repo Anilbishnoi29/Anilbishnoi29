@@ -1,7 +1,9 @@
 
-# Hi, Anil Kumar! 👋
+# Anil Kumar !
 
-Currently: Student of MCA at Poddar Management and Technical campus, Jaipur.
+I'm Anil from 🇮🇳 India.
+
+    Currently: Student of MCA at Poddar Management and Technical campus, Jaipur.
 
 
 ## 🛠 Skills
