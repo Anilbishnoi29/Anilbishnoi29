@@ -15,6 +15,11 @@ I'm Anil from 🇮🇳 India.
     HTML5, CSS3, JS
 
     Bootstrap
+    
+
+## 🔗 Projects
+
+    JavaScript: https://anilbishnoi29.github.io/DiceGame/
 
 ## 🔗 Links
 
