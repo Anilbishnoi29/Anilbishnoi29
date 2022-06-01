@@ -19,7 +19,7 @@ I'm Anil from 🇮🇳 India.
 
 ## 🔗 Projects
 
-    JavaScript: https://anilbishnoi29.github.io/DiceGame/
+   JavaScript: https://anilbishnoi29.github.io/DiceGame/
 
 ## 🔗 Links
 
