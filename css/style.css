@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+:root {
+    --body-bg: #070613;
+    --white-color: #F3F7FF;
+    --p-color: #6E2DE0;
+
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    background-color: var(--body-bg);
+    font-family: 'Roboto', sans-serif;
+    color: var(--white-color);
+    letter-spacing: 1.5px;
+}
+
+header {
+    padding: 1rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-family: 'Yellowtail', cursive;
+    color: var(--white-color);
+    font-size: 1.5rem;
+}
+
+.nav a {
+    color: var(--white-color);
+    padding: 1rem;
+    margin-left: .2rem;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 0;
+}
+
+main .text {
+    width: 100%;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+main .text h1 {
+    margin: .5rem 0;
+    font-size: 4rem;
+    font-weight: 900;
+    position: relative;
+}
+
+main .text h1::after {
+    content: "";
+    width: 7rem;
+    height: 0.3rem;
+    position: absolute;
+    background-color: var(--p-color);
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -0.4rem;
+}
+
+main .text h3 {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+main .text p {
+    margin: 1rem;
+}
+
+.work {
+    border: 1px solid var(--p-color);
+    width: 90%;
+    margin: auto;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.work h2 {
+    margin-bottom: 2rem;
+}
+
+.work a {
+    padding: .8em 3em;
+    background-color: var(--white-color);
+    color: var(--body-bg);
+    box-shadow: 0px 0px 5px 0px #6e2de0;
+    border-radius: .5em;
+    margin: 1rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 769px) {
+    header {
+        padding: 1rem 5rem;
+    }
+
+    .logo a {
+        font-size: 2rem;
+    }
+
+    .nav a {
+        padding: 1rem 2rem;
+        margin-left: .5rem;
+    }
+
+    main .text {
+        width: 70%;
+    }
+
+    main .text h3 {
+        font-size: 2rem;
+    }
+}
